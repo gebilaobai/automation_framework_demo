@@ -1,0 +1,13 @@
+2018-05-09 14:44:47,272 - BrowserEngine - INFO - You had select Chrome browser.
+2018-05-09 14:44:47,272 - BrowserEngine - INFO - The test server url is: https://www.baidu.com
+2018-05-09 14:44:53,302 - BrowserEngine - INFO - Starting Chrome browser.
+2018-05-09 14:44:57,555 - BrowserEngine - INFO - Open url:https://www.baidu.com
+2018-05-09 14:44:58,688 - BrowserEngine - INFO - Maximize the current window.
+2018-05-09 14:44:58,691 - BrowserEngine - INFO - Set implicitly wait 10 seconds.
+2018-05-09 14:44:58,719 - BasePage - INFO - Had find the element ' 新闻 ' successful by xpath via value: //*[@id='u1']/a[1] 
+2018-05-09 14:45:02,858 - BasePage - INFO - Sleep for 2 seconds
+2018-05-09 14:45:02,888 - BasePage - INFO - Had find the element ' 体育 ' successful by xpath via value: //*[@id='channel-all']/div/ul/li[8]/a 
+2018-05-09 14:45:08,887 - BasePage - INFO - Sleep for 2 seconds
+2018-05-09 14:45:08,915 - BasePage - INFO - Had find the element ' 真敢吹!巴克利预测西决火箭活不过5场 吹猛龙进总决.. ' successful by xpath via value: //*[@id='col_nba']/div[1]/div[2]/ul[1]/li[1]/a 
+2018-05-09 14:45:11,023 - BasePage - INFO - Sleep for 2 seconds
+2018-05-09 14:45:11,615 - BasePage - INFO - 截图并保存至screenshots目录。
